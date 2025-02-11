@@ -29,7 +29,7 @@ O projeto é dividido em pacotes e interfaces:
 
 Abaixo está o diagrama UML que representa a estrutura do projeto:
 
-<img src="images/ClasseUML.png" width="500" />
+![Diagrama UML](https://raw.githubusercontent.com/MatheusFolster/dio-desafioIphoneUML/main/images/iphoneUML.png)
 
 
 ## Como Executar
