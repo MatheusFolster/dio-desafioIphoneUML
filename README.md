@@ -31,6 +31,8 @@ Abaixo está o diagrama UML que representa a estrutura do projeto:
 
 ![Diagrama UML](https://raw.githubusercontent.com/MatheusFolster/dio-desafioIphoneUML/main/images/iphoneUML.png)
 
+Se você não conseguir visualizar a imagem, clique [aqui para acessar o diagrama no Lucidchart](https://lucid.app/lucidchart/62a411e2-c385-49d6-923c-f9d63d02468a/edit?viewport_loc=-20%2C-136%2C2217%2C1076%2CHWEp-vi-RSFO&invitationId=inv_8bd18e40-26a3-40c6-8212-ae978e98c607).
+
 
 ## Como Executar
 
